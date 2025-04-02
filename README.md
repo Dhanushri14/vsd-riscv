@@ -4,7 +4,8 @@ This repository says about the VSD RISCV </p>
 cd
 ![RISC1](https://github.com/user-attachments/assets/a41bac7b-1e10-4ffd-948d-a9a54ca6f5de)
 2. Installing Leafpad
-3. sudo apt install leafpad
+##### 3.command for installing leafpad
+      sudo apt install leafpad
 ![RISC2](https://github.com/user-attachments/assets/4ec4e4ff-fc83-4038-9062-3b36a689572b)
 3. Writing the C Program
 4. leafpad sum1ton.c
