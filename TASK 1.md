@@ -1,4 +1,4 @@
-## VSD RISCV
+## VSD RISCV TASK 1
 This repository says about the VSD RISCV </p>
 1. Navigating to the directory
 cd
