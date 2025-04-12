@@ -9,10 +9,10 @@ B-type: Conditional branches (e.g., beq, bne)
 U-type: Upper immediate operations (e.g., lui, auipc)
 J-type: Unconditional jumps (e.g., jal)
 
-# 1. Initialize a git repository (if not done yet)
+# 1. Initialize a git repository 
 git init
 
-# 2. Create a README file (optional but useful)
+# 2. Create a README file 
 echo "# RISC-V Disassembly Task 3" > README.md
 git add README.md
 
@@ -27,11 +27,8 @@ git branch -M main
 git push -u origin main
 ##Identify 15 Unique RISC-V Instructions
 ![task 3(1)](https://github.com/user-attachments/assets/a35172f3-4261-4797-a9cf-cb018e0921cf)
-![task 3(2)](https://github.com/user-attachments/assets/d8a5b79d-95ab-4610-9a9b-62f9d5032f5d)
-![task 3(3)](https://github.com/user-attachments/assets/e90cbcf8-e7b5-47f2-a045-01f9b9362b82)
-![task 3(4)](https://github.com/user-attachments/assets/72f2a2f3-edf9-4654-a97c-e17efa0d63ed)
 
-15 Unique RISC-V Instructions and Their 32-bit Format Decoding
+##15 Unique RISC-V Instructions and Their 32-bit Format Decoding
 -> R-Type Instructions
 1. Instruction: add x5, x6, x7
 Type: R-Type
