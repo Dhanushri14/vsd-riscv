@@ -1,4 +1,4 @@
-![task 4(4)](https://github.com/user-attachments/assets/d9fb1e0e-0561-4fae-8a8c-2ddc733423dc)##Perform a functional simulation of the given RISC-V Core Verilog netlist and testbench.
+##Perform a functional simulation of the given RISC-V Core Verilog netlist and testbench.
 
 # 1. Go to your project folder
 cd ~/riscv_simulation
